@@ -78,8 +78,6 @@ cd Fashion-MNIST-Image-Classification
 <img width="1728" alt="DL08" src="https://github.com/user-attachments/assets/70f1d410-6eb8-4e5e-b071-d003e5df80fb">
 
 
-You can view the model's accuracy and loss plots in the notebook provided.
-
 ## Technologies Used
 - **TensorFlow/Keras** for building the CNN model.
 - **Streamlit** for creating the web application.
